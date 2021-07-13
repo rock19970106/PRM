@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="traversability_mapping" type="traversability_prm"     name="traversability_prm"     output="screen"/>
+<!--
+	<node pkg="rviz" type="rviz" name="rviz" args="-d /home/zlp/catkin_ws/rvizConfig.rviz" />
+	-->
+</launch>
